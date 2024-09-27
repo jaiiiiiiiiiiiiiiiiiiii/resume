@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border:border-box;
+}
+.logo{
+    background-color:black;
+    height:40px;
+    color:beige;
+   font-size: large;
+   font-family:'Courier New', Courier, monospace ;
+  align-items: center;
+   display:flex;
+
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.66);
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly;
+    color:beige;
+    height: 40px;
+}
+.nav-search{
+    background-color:aqua;
+    display: flex;
+    
+}
+.box1:hover{
+    text-decoration: underline;
+}
+.box2:hover{
+    text-decoration: underline;
+}
+.box3:hover{
+    text-decoration: underline;
+}
+.box4:hover{
+    text-decoration: underline;
+    color:white;
+}
+/**hero section**/
+.hero-section{
+    background-image:url("https://www.shutterstock.com/image-photo/stock-market-forex-trading-graph-260nw-2333511041.jpg");
+background-size:cover;
+height:600px;
+
+}
+.boxx{
+    height:100px;
+    border:2px solid black;
+}
